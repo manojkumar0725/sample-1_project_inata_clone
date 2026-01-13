@@ -1,0 +1,11 @@
+.head{
+  height: 40px;
+  max-width: 100vh;
+  background-color: blue;
+}
+.menu{
+  padding-left: 100px;
+}
+p{
+  text-decoration: none;
+}
